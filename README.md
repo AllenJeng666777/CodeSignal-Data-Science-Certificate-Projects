@@ -3,6 +3,19 @@ Portfolio of projects of "Journey into Data Science with Python": data cleaning,
 
 **Certificate:** Verify here
 
+**Repository structure:**
+
+IBM-Data-Science-Certificate-Projects/
+├─ README.md
+├─ 01_numpy-pandas-basics_titanic.ipynb
+├─ 02_titanic_feature-exploration.ipynb
+├─ 03_seaborn-flights_overview.ipynb
+├─ 04_data-cleaning_missing-values.ipynb
+├─ 05_numpy-pandas_housing-data.ipynb
+├─ 06_wine-quality_overview.ipynb
+└─ 07_unsupervised-learning_intro.ipynb
+
+
 ## 📚 Course Projects
 
 ### 1) NumPy & Pandas Basics (Titanic)
