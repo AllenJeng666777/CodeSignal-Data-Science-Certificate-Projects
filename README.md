@@ -1,7 +1,7 @@
 # CodeSignal-Data-Science-Certificate-Projects
 Portfolio of projects of "Journey into Data Science with Python": data cleaning, exploratory data analysis (EDA), visualization, supervised and unsupervised learning.
 
-**Certificate:** Verify here
+**Certificate:** [Verify here](https://drive.google.com/file/d/14ZGmm3ILpHqjW6vnVuoVW-esmtBp5Vxr/view?usp=sharing)
 
 ## 🗂️ Repo Structure
 Each notebook is self-contained with goals, steps, and results.  
