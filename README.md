@@ -8,23 +8,16 @@ Each notebook is self-contained with goals, steps, and results.
 - Courses 1–6 build toward **supervised learning** (classification/regression).  
 - Course 7 introduces **unsupervised learning** (clustering).
 
-IBM-Data-Science-Certificate-Projects/
+📂 Journey-into-Data-Science-with-Python/
 
-├─ README.md
-
-├─ 01_numpy-pandas-basics_titanic.ipynb
-
-├─ 02_titanic_feature-exploration.ipynb
-
-├─ 03_seaborn-flights_overview.ipynb
-
-├─ 04_data-cleaning_missing-values.ipynb
-
-├─ 05_numpy-pandas_housing-data.ipynb
-
-├─ 06_wine-quality_overview.ipynb
-
-└─ 07_unsupervised-learning_intro.ipynb
+├─ 📄 README.md  # Project overview & documentation  
+├─ 📄 01_numpy-pandas-basics_titanic.ipynb  
+├─ 📄 02_titanic_feature-exploration.ipynb  
+├─ 📄 03_seaborn-flights_overview.ipynb  
+├─ 📄 04_data-cleaning_missing-values.ipynb  
+├─ 📄 05_numpy-pandas_housing-data.ipynb  
+├─ 📄 06_wine-quality_overview.ipynb  
+└─ 📄 07_unsupervised-learning_intro.ipynb  
 
 
 ## 📚 Course Projects
