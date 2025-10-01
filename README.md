@@ -3,16 +3,27 @@ Portfolio of projects of "Journey into Data Science with Python": data cleaning,
 
 **Certificate:** Verify here
 
-**Repository structure:**
+## 🗂️ Repo Structure
+Each notebook is self-contained with goals, steps, and results.  
+- Courses 1–6 build toward **supervised learning** (classification/regression).  
+- Course 7 introduces **unsupervised learning** (clustering).
 
 IBM-Data-Science-Certificate-Projects/
+
 ├─ README.md
+
 ├─ 01_numpy-pandas-basics_titanic.ipynb
+
 ├─ 02_titanic_feature-exploration.ipynb
+
 ├─ 03_seaborn-flights_overview.ipynb
+
 ├─ 04_data-cleaning_missing-values.ipynb
+
 ├─ 05_numpy-pandas_housing-data.ipynb
+
 ├─ 06_wine-quality_overview.ipynb
+
 └─ 07_unsupervised-learning_intro.ipynb
 
 
@@ -54,10 +65,6 @@ IBM-Data-Science-Certificate-Projects/
 **Highlights:** K-Means workflow, scaling, PCA, silhouette score.  
 **Skills:** Unsupervised ML, clustering, evaluation.
 
-## 🗂️ Repo Structure
-Each notebook is self-contained with goals, steps, and results.  
-- Courses 1–6 build toward **supervised learning** (classification/regression).  
-- Course 7 introduces **unsupervised learning** (clustering).
 
 ## ⚙️ Environment
 - Python 3.10+
